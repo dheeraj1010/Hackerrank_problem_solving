@@ -44,3 +44,4 @@ if __name__ == "__main__":
     arr = list(map(int, input().rstrip().split()))
     result = cutTheStciks(n,arr)
     print(result)
+    

@@ -1,2 +1,4 @@
-for i in range(20):
-    print(i)
+stri = input()
+print(stri)
+arr= split(stri)
+print(arr)
